@@ -8,5 +8,10 @@ class Plus
     {
         return $a + $b;
     }
+
+    public function calc3($a, $b, $c)
+    {
+        return $a + $b + $c;
+    }
 }
 
