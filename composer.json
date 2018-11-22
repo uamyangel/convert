@@ -1,0 +1,13 @@
+{
+    "name": "chemlinked/convert",
+    "description": "more info",
+    "type": "library",
+    "license": "dsfsdfdsgsdfsdfs",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Chemlinked\\Math\\": "src/"
+        }
+    }
+}
